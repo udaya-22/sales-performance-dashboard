@@ -21,7 +21,7 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 - Sales Performance Dashboard
 
 ## 📸 Dashboard Preview
-![Dashboard](Sales Performance Dashboard.jpg)
+Sales Performance Dashboard.jpg
 
 ## 📈 Insights
 - West region generates highest sales
